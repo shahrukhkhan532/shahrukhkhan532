@@ -25,3 +25,6 @@
     </li>
   </ul>
 <p><a href="https://medium.com/@shahrukhkhan_7802">➡️ More blog posts</a></p>
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
