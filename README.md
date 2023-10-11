@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **khanxhahrukh@gmail.com**
 
-<h2>Latest Blog Posts</h2>
+<h2>✒️ Recent Blog Posts</h2>
   <ul>
     <li>
       <a href=https://medium.com/@shahrukhkhan_7802/modernizing-legacy-code-the-road-to-design-patterns-mastery-in-c-12a7cbb6873>Modernizing Legacy Code: The Road to Design Patterns Mastery in C# 🚀</a>
@@ -25,6 +25,18 @@
     </li>
   </ul>
 <p><a href="https://medium.com/@shahrukhkhan_7802">➡️ More blog posts</a></p>
+<h2>🚀 Some Tools I Use</h2>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="react" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="react" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="vue" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="redis" width="50" height="50" />
+</p>
+
 <p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
