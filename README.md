@@ -9,6 +9,27 @@
 
 - 📫 How to reach me **khanxhahrukh@gmail.com**
 
+<h3><b>My Repos</b></h3>
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>🎁 Repo Name</b></td>
+      <td><b>👇 Description</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    </tr>
+      <tr>
+      <td><a href="https://github.com/shahrukhkhan532/PatternPioneer"><b>Pattern Pioneer</b></a></td>
+      <td><a href="https://github.com/shahrukhkhan532/PatternPioneer/blob/master/README.md"><b>Description</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/shahrukhkhan532/PatternPioneer?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/shahrukhkhan532/PatternPioneer?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+</tbody>
+</table>
+
 <h2>✒️ Recent Blog Posts</h2>
   <ul>
     <li>
