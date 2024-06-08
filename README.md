@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shah Rukh Khan</h1>
 <h3 align="center">A Minimalist Software Craftsman</h3>
 
-<p align="left"> <a href="https://www.linkedin.com/in/g2349b8/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://medium.com/@shahrukhkhan_7802"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/thisissrk/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://medium.com/@shahrukhkhan_7802"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a> </p>
 
 - 📝 I regularly write articles on [https://medium.com](https://medium.com/@shahrukhkhan_7802)
 
